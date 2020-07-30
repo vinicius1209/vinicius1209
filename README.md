@@ -20,4 +20,5 @@ In my free time i like to code on personal projects, take time with my girlfrien
 - Java with Spring
 - AWS (SQS, Lambda)
 
-- 📫 I hope to hear from you: viniciusadrianomachado@gmail.com
+
+#### 📫 I hope to hear from you: viniciusadrianomachado@gmail.com
