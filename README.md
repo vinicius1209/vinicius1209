@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**vinicius1209/vinicius1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Vinícius Machado. I'm graduated in Computer Science course by Universide do Vale do ITajaí (Brazil), and I've been working as Full Stack Web Developer since 2018. 
 
-Here are some ideas to get you started:
+In my free time i like to code on personal projects, take time with my girlfriend and family or maybe play a mach on my favorite Xbox game 😄 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 I hope to hear from you: viniciusadrianomachado@gmail.com
+
+#### My specialites on Front-End are:
+- Vue.js
+- Javascript
+- HTML
+- CSS
+- Flask (Jinja templates)
+- Bulma.io
+- Bootstrap
+- Vuetify
+- Vue-Bootstrap
+
+#### Back-End
+- Flask
+- Java with Spring
+- AWS (SQS, Lambda)
