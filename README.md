@@ -4,8 +4,6 @@ My name is Vinícius Machado. I'm graduated in Computer Science course by Univer
 
 In my free time i like to code on personal projects, take time with my girlfriend and family or maybe play a mach on my favorite Xbox game 😄 
 
-- 📫 I hope to hear from you: viniciusadrianomachado@gmail.com
-
 #### My specialites on Front-End are:
 - Vue.js
 - Javascript
@@ -21,3 +19,5 @@ In my free time i like to code on personal projects, take time with my girlfrien
 - Flask
 - Java with Spring
 - AWS (SQS, Lambda)
+
+- 📫 I hope to hear from you: viniciusadrianomachado@gmail.com
